@@ -1,0 +1,2 @@
+# Flowers Object Detection
+Applying Deep-learning to detect flower types. The model deploys a Convolutional Neural Network with a hybrid architecture of ResNet-34 and RetinaNet using pytorch framework and fastai library. Transfer learning is used in training the model to shorten and facilitate the training operation. The dataset has five flower types which are daisy, dandelion, rose, sunflower, and tulip. The dataset has been obtained from Kaggle. The present model has a satisfying peroformance.
